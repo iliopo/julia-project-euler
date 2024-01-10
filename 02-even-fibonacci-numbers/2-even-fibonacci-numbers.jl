@@ -28,7 +28,6 @@ end
 =#
 
 #Do we need to loop at all? Using the Binet Function and n identity of the sum of fibonacci numbers: sum(F(n)) = F(n+2) + 1
-#The code itself isnt very clear, there is surely  a need to make it more readable
 const PHI1 = (1 + sqrt(5)) / 2
 const PHI2 = (1 - sqrt(5)) / 2
 
